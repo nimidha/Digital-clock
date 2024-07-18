@@ -23,7 +23,7 @@ Clone this repository:
 
 Navigate into the project directory:
 
-    ```cd digital-clock```
+```cd digital-clock```
 
 Open the .html file in your web browser.
 
