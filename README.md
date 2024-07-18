@@ -17,7 +17,7 @@ This repository contains a simple digital clock implemented using HTML, CSS, and
 
 To view the digital clock:
 
-    Clone this repository:
+Clone this repository:
 
 ```git clone https://github.com/your-username/digital-clock.git```
 
@@ -25,7 +25,7 @@ Navigate into the project directory:
 
     ```cd digital-clock```
 
-    Open the .html file in your web browser.
+Open the .html file in your web browser.
 
 # Screenshots
 
